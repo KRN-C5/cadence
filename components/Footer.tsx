@@ -2,6 +2,11 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { ArrowUpRight } from "lucide-react";
+
+// Change this to the name you want shown in the footer.
+const DEVELOPER = "Your Name";
+const DEVELOPER_URL = "https://www.linkedin.com/in/krn-c5/";
 
 const COLUMNS = [
   {
@@ -80,6 +85,24 @@ export function Footer() {
           <p className="sm:text-right">
             Dry kibble or small treats only. Supervise play.
           </p>
+        </div>
+
+        <div className="mt-6 flex flex-col gap-2 border-t border-line pt-5 text-[11px] text-muted sm:flex-row sm:items-center sm:justify-between">
+          <p>Designed and developed by Kiran</p>
+          <a
+            href={DEVELOPER_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group inline-flex items-center gap-1.5 text-ink/80 transition-colors hover:text-ink"
+            aria-label={`${DEVELOPER} on LinkedIn (opens in a new tab)`}
+          >
+            <span className="link-underline">LinkedIn</span>
+            <ArrowUpRight
+              size={13}
+              strokeWidth={1.6}
+              className="transition-transform duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5"
+            />
+          </a>
         </div>
       </div>
     </footer>
