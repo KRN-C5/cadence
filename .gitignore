@@ -1,0 +1,18 @@
+node_modules/
+.hwa/
+.vercel/
+.env*
+init.py
+init (*).py
+submit.py
+hwa-start.*
+.DS_Store
+dist/
+.vercel
+.next/
+out/
+*.tsbuildinfo
+opencode.json
+/Self-WindingTreatRollerv21-ezgif-split final/
+/Playful Cadence Puppy Treat Logo.png
+/*.mp3
