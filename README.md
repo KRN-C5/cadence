@@ -7,13 +7,13 @@ A concept product and website for dogs that are home alone. Cadence is a treat t
 Built for the **Happy While Away** hackathon.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Cadence concept video: a golden retriever nudges the roller and a treat appears in the slot" width="640" />
+  <img src="demo.gif" alt="Cadence concept video: a golden retriever nudges the roller and a treat appears in the slot" width="640" />
 </p>
 
 <p align="center">
-  <a href="docs/cadence-demo.mp4"><b>Watch the full concept video</b></a>
+  <a href="cadence-demo.mp4"><b>Watch the full concept video</b></a>
   &nbsp;·&nbsp;
-  <a href="docs/cadence-pitch-deck.pdf"><b>Read the pitch deck</b></a>
+  <a href="cadence-pitch-deck.pdf"><b>Read the pitch deck</b></a>
 </p>
 
 > The product images, the video and the numbers in this project are **concept renders and design targets**, not photographs or test results of a finished product.
@@ -23,7 +23,7 @@ Built for the **Happy While Away** hackathon.
 ## The product
 
 <p align="center">
-  <img src="docs/product-views.jpg" alt="Nine views of the Cadence roller: gauge cap, treat slot and fill cap" width="100%" />
+  <img src="product-views.jpg" alt="Nine views of the Cadence roller: gauge cap, treat slot and fill cap" width="100%" />
 </p>
 
 | Part | What it does |
